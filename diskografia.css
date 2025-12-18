@@ -1,0 +1,17 @@
+.img-fluid{
+  width: 100%;
+}
+
+.topimage{
+  position: relative;
+}
+
+h1{
+  position: absolute;
+  bottom: 15%;
+  color: white;
+  width: 100%;
+  text-align: center;
+  background-color: rgba(0, 0, 0, 0.74);
+
+}
